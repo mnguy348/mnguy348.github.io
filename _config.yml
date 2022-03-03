@@ -11,7 +11,7 @@ description: Biochemistry Undergrad at Cal Poly Uiversity
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # To use the Cal Poly Learn by Doing logo put https://raw.githubusercontent.com/[username]/[website_name]/master/images/CP_LBD.jpg
 # But fill in your actual username and website name
-avatar: https://github.com/mnguy348/mnguy348.github.io/blob/master/images/CP_LBD.jpg
+avatar: //raw.githubusercontent.com/[mnguy348]/[mnguy348.github.io]/master/images/CP_LBD.jpg
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ avatar: https://github.com/mnguy348/mnguy348.github.io/blob/master/images/CP_LBD
 footer-links:
   dribbble:
   email: minhnnguyen1402@gmail.com
-  facebook: minhnnguyen1402
+  facebook: 
   flickr:
   github: mnguy348
   instagram: _minhnnguyen_
@@ -43,7 +43,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://yourname.github.io
+url: http://mnguy348.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
