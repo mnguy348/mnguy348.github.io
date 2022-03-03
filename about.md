@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I was born and raised in Vietnam.  I have been studying abroad for more than four years.  I obtained two associate degrees in Biology and Chemistry at Cuesta community college.  I transfered to Cal Poly university in the Fall of 2021 and currently enrolling as a Junior.  
+Minh Ngoc Nguyen was from Vietnam.  She has been studying abroad for more than four years in United States.  She obtained two associate degrees
 
 
 ### Contact me
