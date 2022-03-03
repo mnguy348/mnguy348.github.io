@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group Members
+title: Resume
 permalink: /people/
 ---
 
