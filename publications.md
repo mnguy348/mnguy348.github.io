@@ -15,6 +15,7 @@ Cal Poly premed undergraduate seeking for an internship to widen the knowledge a
 # Education
 
 Bachelor’s Degree in Biochemistry - California Polytechnic State University – class of 2023 
+
 Associate Degrees in Chemistry and Biology - Cuesta College – 2021
 
 # Experience
