@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Resume
+title: Life Beyond School
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+Minh Ngoc Nguyen is friendly and active.  She loves outdoor activities, such as hiking, backpacking, traveling and taking good photos.  
+
