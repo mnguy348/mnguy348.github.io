@@ -7,9 +7,7 @@ permalink: /people/
 
 <img src="{{site.baseurl}}/images/1.jpg" alt="Picture of blah" width="100" 
 style="float: left; margin-top: 0px; margin-right: 10px" /> 
-
-<img src="{{site.baseurl}}/images/2.jpg" alt="Picture of blah" width="100" 
-style="float: left; margin-top: 0px; margin-right: 10px" /> 
+ 
 
 <img src="{{site.baseurl}}/images/3.jpg" alt="Picture of blah" width="100" 
 style="float: left; margin-top: 0px; margin-right: 10px" /> 
